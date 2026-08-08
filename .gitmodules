@@ -5,3 +5,6 @@
 [submodule "ROCModels"]
 	path = ROCModels
 	url = https://github.com/cran/ROCModels
+[submodule "smoothROC"]
+	path = smoothROC
+	url = https://github.com/cran/smoothROC
